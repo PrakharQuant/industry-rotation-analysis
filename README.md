@@ -82,7 +82,7 @@ Built using CMIE Economic Outlook and Industry Outlook data for the Indian econo
 *Recent performance vs. historical averages - Accelerating vs. decelerating sectors*
 
 ### Interactive Sector Trends
-[View Interactive Chart](https://yourusername.github.io/industry-rotation-analysis/) *(GitHub Pages hosted)*
+[View Interactive Chart](https://prakharquant.github.io/industry-rotation-analysis/) *(GitHub Pages hosted)*
 
 ---
 
@@ -96,7 +96,7 @@ Built using CMIE Economic Outlook and Industry Outlook data for the Indian econo
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/industry-rotation-analysis.git
+git clone https://github.com/PrakharQuant/industry-rotation-analysis.git
 cd industry-rotation-analysis
 ```
 
